@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="account">account</string>
+    <string name="passwd">passwd</string>
+    <string name="title_activity_add_activity1">AddActivity1</string>
+    <string name="newmember">newmember</string>
+    <string name="newaccount">newaccount</string>
+    <string name="check">check</string>
+    <string name="login">login</string>
+
+    <drawable name="GREEN">#99DD00</drawable>
+    <drawable name="COLAR">#33FFAA</drawable>
+
+    <string name="complete">complete</string>
+    <string name="title_activity_add_activity2">AddActivity2</string>
+
+</resources>
